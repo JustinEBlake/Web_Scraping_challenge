@@ -22,4 +22,4 @@
 - 📁 [part_2_mars_weather.ipynb](https://github.com/JustinEBlake/Web_Scraping_challenge/blob/master/part_2_mars_weather.ipynb)
 
 ## Source Code
-- Source code from previous lessons during the course.
+- Source code from previous lessons in the course.
